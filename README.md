@@ -28,16 +28,16 @@ The following **required** functionality is completed:
 The following **stretch** functionality is implemented:
 
 - [X] (2 pts) **Add Swipe To Refresh to force a new network call to get new data**
-  - ![GIF showing Swipe to Refresh](https://i.imgur.com/VT54Nnz.gif) <!-- Replace this link with your actual image/GIF link -->
+  - ![GIF showing Swipe to Refresh](https://i.imgur.com/3APM3UX.gif) <!-- Replace this link with your actual image/GIF link -->
 
 - [X] (2 pts) **Add setting toggle for user to create preference for caching data or not (Using Shared Preferences)**
-  - ![GIF showing Shared Preferences for caching](https://i.imgur.com/VT54Nnz.gif) <!-- Replace this link with your actual image/GIF link -->
+  - ![GIF showing Shared Preferences for caching](https://i.imgur.com/3APM3UX.gif) <!-- Replace this link with your actual image/GIF link -->
 
 - [ ] (+3 pts) **Implement a Search UI to filter current RecyclerView entries or fetch data from the search API with query**
-  - ![GIF showing Search UI functionality](https://i.imgur.com/VT54Nnz.gif) <!-- Replace this link with your actual image/GIF link -->
+  - ![GIF showing Search UI functionality](https://i.imgur.com/3APM3UX.gif) <!-- Replace this link with your actual image/GIF link -->
 
 - [X] (2 pts) **Listen to network connectivity changes and create a UI to let people know they are offline and automatically reload new data if connectivity returns**
-  - ![GIF showing network connectivity detection](https://i.imgur.com/VT54Nnz.gif) <!-- Replace this link with your actual image/GIF link -->
+  - ![GIF showing network connectivity detection](https://i.imgur.com/3APM3UX.gif) <!-- Replace this link with your actual image/GIF link -->
 
 ## Notes
 
